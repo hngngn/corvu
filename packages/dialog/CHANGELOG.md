@@ -1,5 +1,28 @@
 # Changelog
 
+## [0.3.0](https://github.com/hngngn/corvu/compare/@corvu/dialog-v0.2.0...@corvu/dialog@0.3.0) (2024-05-29)
+
+
+### ⚠ BREAKING CHANGES
+
+* make component props generic to ensure proper typing
+* improve dynamic type system ([#19](https://github.com/hngngn/corvu/issues/19))
+* split primitives into separate packages ([#17](https://github.com/hngngn/corvu/issues/17))
+
+### Features
+
+* improve dynamic type system ([#19](https://github.com/hngngn/corvu/issues/19)) ([6621c10](https://github.com/hngngn/corvu/commit/6621c10abb4d6c740c6f489502bd9a6e4d4a2fa2))
+
+
+### Bug Fixes
+
+* make component props generic to ensure proper typing ([631fd87](https://github.com/hngngn/corvu/commit/631fd87b7175663404a569b793bc9a474eb6a2f0))
+
+
+### Code Refactoring
+
+* split primitives into separate packages ([#17](https://github.com/hngngn/corvu/issues/17)) ([360e8fb](https://github.com/hngngn/corvu/commit/360e8fb040c54ebd542dc244a5e10a7784e4388b))
+
 ## [0.2.0](https://github.com/corvudev/corvu/compare/@corvu/dialog@0.1.0...@corvu/dialog@0.2.0) (2024-05-21)
 
 

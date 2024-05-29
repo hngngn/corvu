@@ -1,5 +1,16 @@
 # solid-prevent-scroll
 
+## [0.2.0](https://github.com/hngngn/corvu/compare/solid-prevent-scroll-v0.1.7...solid-prevent-scroll@0.2.0) (2024-05-29)
+
+
+### ⚠ BREAKING CHANGES
+
+* split primitives into separate packages ([#17](https://github.com/hngngn/corvu/issues/17))
+
+### Code Refactoring
+
+* split primitives into separate packages ([#17](https://github.com/hngngn/corvu/issues/17)) ([360e8fb](https://github.com/hngngn/corvu/commit/360e8fb040c54ebd542dc244a5e10a7784e4388b))
+
 ## [0.1.7](https://github.com/corvudev/corvu/compare/solid-prevent-scroll@0.1.6...solid-prevent-scroll@0.1.7) (2024-05-13)
 
 

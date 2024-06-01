@@ -1,5 +1,30 @@
 # @corvu/utils
 
+## [0.4.0](https://github.com/hngngn/corvu/compare/@corvu/utils-v0.3.1...@corvu/utils@0.4.0) (2024-06-01)
+
+
+### ⚠ BREAKING CHANGES
+
+* make component props generic to ensure proper typing
+* improve dynamic type system ([#19](https://github.com/hngngn/corvu/issues/19))
+* split primitives into separate packages ([#17](https://github.com/hngngn/corvu/issues/17))
+
+### Features
+
+* improve dynamic type system ([#19](https://github.com/hngngn/corvu/issues/19)) ([6621c10](https://github.com/hngngn/corvu/commit/6621c10abb4d6c740c6f489502bd9a6e4d4a2fa2))
+
+
+### Bug Fixes
+
+* **isFunction:** check function.length to ignore accessors ([749304d](https://github.com/hngngn/corvu/commit/749304d5e9cc433b322c4bf761483e68ae0801c8))
+* make component props generic to ensure proper typing ([631fd87](https://github.com/hngngn/corvu/commit/631fd87b7175663404a569b793bc9a474eb6a2f0))
+* proper typesVersions in package.json ([77c9ceb](https://github.com/hngngn/corvu/commit/77c9cebc34fb276d837cc8299da472452164f5ae))
+
+
+### Code Refactoring
+
+* split primitives into separate packages ([#17](https://github.com/hngngn/corvu/issues/17)) ([360e8fb](https://github.com/hngngn/corvu/commit/360e8fb040c54ebd542dc244a5e10a7784e4388b))
+
 ## [0.3.1](https://github.com/corvudev/corvu/compare/@corvu/utils@0.3.0...@corvu/utils@0.3.1) (2024-05-25)
 
 

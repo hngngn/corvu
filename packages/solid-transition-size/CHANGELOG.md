@@ -1,5 +1,16 @@
 # solid-transition-size
 
+## [0.2.0](https://github.com/hngngn/corvu/compare/solid-transition-size-v0.1.2...solid-transition-size@0.2.0) (2024-06-01)
+
+
+### ⚠ BREAKING CHANGES
+
+* split primitives into separate packages ([#17](https://github.com/hngngn/corvu/issues/17))
+
+### Code Refactoring
+
+* split primitives into separate packages ([#17](https://github.com/hngngn/corvu/issues/17)) ([360e8fb](https://github.com/hngngn/corvu/commit/360e8fb040c54ebd542dc244a5e10a7784e4388b))
+
 ## [0.1.2](https://github.com/corvudev/corvu/compare/solid-transition-size@0.1.1...solid-transition-size@0.1.2) (2024-05-13)
 
 
